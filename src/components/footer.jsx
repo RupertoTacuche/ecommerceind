@@ -16,7 +16,7 @@ const footer = () => {
           <h3 className='mb-5'>Contact us</h3>
           <div className="footer-details">
             <p className='mb-3'><b>Address:</b> Xoconautla 300, col del Valle</p>
-            <p className='mb-3'><b>Phone: </b><a href="tel:+2457865438">Call us +2457865438</a></p>
+            <p className='mb-3'><b>Phone: </b><a href="tel:+2457865438" >Call us +2457865438</a></p>
             <p className='mb-3'><b>Hours open: </b>From 8 a.m To 6 p.m</p>
             <p className='mb-5'><b>Follow the developer: </b>Mr Victor Murcio</p>
             <p className='mb-3'><b>Follow us</b></p>

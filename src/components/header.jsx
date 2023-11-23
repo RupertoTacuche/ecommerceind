@@ -16,7 +16,7 @@ const header = () => {
           <div className="col-6">
             <p>The trending outfits al 100% off </p>
           </div>
-          <div className="col-6 d-flex justify-content-between">
+          <div className="col-6 d-flex justify-content-between ">
             <div>
                 <a href="tel:+2457865438">Call us +2457865438</a>
             </div>
