@@ -46,7 +46,7 @@ const hero = () => {
             </div>
         </div>
     </div>
-  </section> mb-2
+  </section> 
   </>
 }
 
